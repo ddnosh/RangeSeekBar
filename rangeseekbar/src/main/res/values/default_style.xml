@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="RangeSeekBarDefaultStyle">
+        <item name="blockTextSize">16sp</item>
+        <item name="blockTextColor">#FFFFFF</item>
+        <item name="blockColor">#FF0000</item>
+        <item name="start">10</item>
+        <item name="unit"></item>
+    </style>
+
+</resources>
